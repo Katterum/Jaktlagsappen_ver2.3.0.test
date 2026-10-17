@@ -1,0 +1,4 @@
+Supabase > Edge Functions > manage-user > Code
+Ersätt endast koden i manage-user med innehållet i manage-user.ts och välj Deploy.
+Ändra inte username-login.
+Efter deploy: logga in som Erik, öppna Användare & åtkomst och testa Viewer samt Ta bort appåtkomst på testkontot.
